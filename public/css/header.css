@@ -139,8 +139,8 @@ border-bottom: 1px #444 solid;
     }
 
     .button:not(.secondary) a:hover{
-        background: #006d6d;
-        border-color: #006d6d;
+        background: #948a32;
+        border-color: #1f4881;
     }
     .button.secondary a:hover{
         color: #d9d8d4;
