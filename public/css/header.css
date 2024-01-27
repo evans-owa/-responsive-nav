@@ -11,8 +11,8 @@ body{
     font-family:'Roboto','sans-serif';
 }
 nav{
-    background: #222;
-    padding: 20px;
+    background: #30346e;
+    padding: 10px;
 }
 
 ul{
@@ -78,7 +78,7 @@ border-bottom: 1px #444 solid;
     }
 
     .bars{
-        background: #999;
+        background: #a2b2b6;
         display: inline-block;
         height: 2px;
         position: relative;
@@ -87,7 +87,7 @@ border-bottom: 1px #444 solid;
 
     .bars::before,.bars::after
     {
-        background: #999;
+        background: #a2b2b6;
         display: inline-block;
         content: "";
         height: 2px;
@@ -127,8 +127,8 @@ border-bottom: 1px #444 solid;
     .button a{
         text-decoration: none;
         padding: 7px 15px;
-        background: teal;
-        border: 1px solid #006d6d;
+        background: rgb(123, 155, 155);
+        border: 1px solid #66abab;
         border-radius: 50rem;
     }
     .button.secondary a{
